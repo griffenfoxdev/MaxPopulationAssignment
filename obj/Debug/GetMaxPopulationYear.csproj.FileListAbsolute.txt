@@ -1,0 +1,7 @@
+E:\ConsoleApps\GetMaxPopulationYear\bin\Debug\GetMaxPopulationYear.exe.config
+E:\ConsoleApps\GetMaxPopulationYear\bin\Debug\GetMaxPopulationYear.exe
+E:\ConsoleApps\GetMaxPopulationYear\bin\Debug\GetMaxPopulationYear.pdb
+E:\ConsoleApps\GetMaxPopulationYear\obj\Debug\GetMaxPopulationYear.csprojAssemblyReference.cache
+E:\ConsoleApps\GetMaxPopulationYear\obj\Debug\GetMaxPopulationYear.csproj.CoreCompileInputs.cache
+E:\ConsoleApps\GetMaxPopulationYear\obj\Debug\GetMaxPopulationYear.exe
+E:\ConsoleApps\GetMaxPopulationYear\obj\Debug\GetMaxPopulationYear.pdb
